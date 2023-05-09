@@ -1,13 +1,6 @@
 #include <iostream>
 #include <bits/stdc++.h>
-#include <fstream>
-#include <string.h>
-#include <conio.h>
-#include <cstdio>
-#include <direct.h>
-#include <windows.h>
-#include <wincon.h>
-#include <ctime>
+
 using namespace std;
 
 int WHITE = 15;
