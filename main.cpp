@@ -2,17 +2,9 @@
 #include <bits/stdc++.h>
 #include <fstream>
 #include <string.h>
-#include <stdio.h>
 #include <conio.h>
-#include <process.h>
-#include <direct.h>
-#include <iomanip>
-#include <ctype.h>
 #include <cstdio>
 #include <direct.h>
-#include <cstring>
-#include <cstdlib>
-#include <stdlib.h>
 #include <windows.h>
 #include <wincon.h>
 #include <ctime>
