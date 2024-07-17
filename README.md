@@ -30,7 +30,7 @@ The project is completed.
 
 ## 👨‍💻Authors
 - [@Lakshya Kandpal](https://github.com/HiLakshya)
-- [@Vibhor Yadav](https://www.instagram.com/chotu_4546/)
+- [@Vibhor Yadav](https://github.com/VibhorYadav4546)
 - [@Nilesh Verma](https://github.com/NileshVerma001)
 - [@Parth Khare](https://github.com/Parth1706) 
 
